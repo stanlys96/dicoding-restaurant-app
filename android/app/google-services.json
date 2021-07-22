@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290590106779",
+    "project_id": "dicoding-restaurant",
+    "storage_bucket": "dicoding-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290590106779:android:f81707134e72d848c3523e",
+        "android_client_info": {
+          "package_name": "com.example.dicoding_news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290590106779-1e583ebak3jfvedts1kfd0dvmsa64dsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxC_FW6W-OjnoACA0wCpxFICKyXyKuZ7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290590106779-1e583ebak3jfvedts1kfd0dvmsa64dsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
